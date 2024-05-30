@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+* Bucket List
+  * Pipelining
+  * Dll Injection
+  * SQL
+  * Algs
+  * DataStructures
+  * Backend Development
+
 ![](https://komarev.com/ghpvc/?username=MrPrickle&color=red&style=plastic)
 
 <!--
