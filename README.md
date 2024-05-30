@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=MrPrickle&color=green&style=plastic)
+![](https://komarev.com/ghpvc/?username=MrPrickle&color=red&style=plastic)
 
 <!--
 **MrPrickle/MrPrickle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
