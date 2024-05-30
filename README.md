@@ -1,4 +1,5 @@
-## Hi there 👋
+## I'm MrPrickle
+![](https://komarev.com/ghpvc/?username=MrPrickle&color=red&style=plastic)
 
 * Bucket List
   * Pipelining
@@ -7,8 +8,6 @@
   * Algs
   * DataStructures
   * Backend Development
-
-![](https://komarev.com/ghpvc/?username=MrPrickle&color=red&style=plastic)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPrickle&show_icons=true&theme=onedark)
 
