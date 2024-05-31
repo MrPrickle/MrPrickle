@@ -1,5 +1,5 @@
 ## I'm MrPrickle
-![](https://komarev.com/ghpvc/?username=MrPrickle&color=red&style=plastic)
+![](https://komarev.com/ghpvc/?username=MrPrickle&color=blue&style=plastic)
 
 * Bucket List
   * Pipelining
