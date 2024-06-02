@@ -1,6 +1,6 @@
 ## I'm MrPrickle
 ![](https://komarev.com/ghpvc/?username=MrPrickle&color=blue&style=plastic)
-[![wakatime](https://wakatime.com/badge/user/c70c67bc-ebd9-48fd-90dd-12e3d0f09163.svg)](https://wakatime.com/@c70c67bc-ebd9-48fd-90dd-12e3d0f09163)
+[![wakatime](https://wakatime.com/badge/user/c70c67bc-ebd9-48fd-90dd-12e3d0f09163.svg)](https://wakatime.com/@c70c67bc-ebd9-48fd-90dd-12e3d0f09163&style=plastic)
 * Bucket List
   * Pipelining
   * Dll Injection
