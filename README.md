@@ -8,10 +8,6 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/766737064133132298)](https://dev.discordprofiles.me/openspotify/766737064133132298)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprickle&layout=compact&theme=transparent&count_private=true&hide_border=true" alt="Top Languages" />
-
-
-
 <details>
   <summary>Github Stats</summary>
   <p align="center">
