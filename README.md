@@ -15,17 +15,18 @@
 </details>
 
 <details>
-<p align="center">
-  <a href="https://github.com/FujiwaraChoki">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrPrickle&theme=transparent" />
-  </a>
-  <a href="https://github.com/FujiwaraChoki">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrPrickle&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/FujiwaraChoki">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrPrickle&theme=transparent" />
-  </a>
-</p>
+  <summary>Github Stats</summary>
+  <p align="center">
+    <a href="https://github.com/FujiwaraChoki">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrPrickle&theme=transparent" />
+    </a>
+    <a href="https://github.com/FujiwaraChoki">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrPrickle&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/FujiwaraChoki">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrPrickle&theme=transparent" />
+    </a>
+  </p>
 
 * Bucket List
   * Pipelining
