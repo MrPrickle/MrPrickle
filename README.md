@@ -21,8 +21,9 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrPrickle&theme=transparent" />
     </a>
   </p>
+<table><tr><td valign="top" width="33%">
 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrprickle&layout=compact&theme=transparent&count_private=true&hide_border=true" alt="Top Languages" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrprickle&layout=compact&theme=transparent&count_private=true&hide_border=true" alt="Top Languages" />
 
 ### Frontend  
 <div align="center">  
