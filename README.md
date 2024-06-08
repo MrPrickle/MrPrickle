@@ -7,15 +7,9 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/766737064133132298)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/766737064133132298)](https://dev.discordprofiles.me/openspotify/766737064133132298)
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrprickle&theme=transparent&count_private=true&hide_border=true&line_height=20" alt="Github stats" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprickle&layout=compact&theme=transparent&count_private=true&hide_border=true" alt="Top Languages" />
-  </a>
-</details>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprickle&layout=compact&theme=transparent&count_private=true&hide_border=true" alt="Top Languages" />
+
 
 
 <details>
@@ -29,6 +23,9 @@
     </a>
     <a href="https://github.com/MrPrickle">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrPrickle&theme=transparent" />
+    </a>
+    <a href = "https://github.com/MrPrickle">
+      <img src = "<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprickle&layout=compact&theme=transparent&count_private=true&hide_border=true" alt="Top Languages" />
     </a>
   </p>
 
