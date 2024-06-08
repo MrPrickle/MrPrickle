@@ -10,10 +10,10 @@
 <details>
   <summary>Github Stats ⚡</summary>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrprickle&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mrprickle&theme=transparent&count_private=true&hide_border=true&line_height=20" alt="Github stats" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprickle&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprickle&layout=compact&theme=transparent&count_private=true&hide_border=true" alt="Top Languages" />
   </a>
 </details>
 
