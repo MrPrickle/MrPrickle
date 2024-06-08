@@ -1,5 +1,5 @@
 ## I'm MrPrickle
-![](https://komarev.com/ghpvc/?username=MrPrickle&color=blue&style=plastic)
+![](https://komarev.com/ghpvc/?username=MrPrickle&color=blue)
 [![wakatime](https://wakatime.com/badge/user/c70c67bc-ebd9-48fd-90dd-12e3d0f09163.svg)](https://wakatime.com/@c70c67bc-ebd9-48fd-90dd-12e3d0f09163&style=plastic)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/766737064133132298?simple=true)
