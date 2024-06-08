@@ -49,6 +49,15 @@
   * Backend Development
 
 
+</div>
+
+</td></tr></table>  
+
+<br/>
+
+<br/>  
+
+</details>
 
 <!--
 **MrPrickle/MrPrickle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
