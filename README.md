@@ -20,9 +20,9 @@
     <a href="https://github.com/MrPrickle">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrPrickle&theme=transparent" />
     </a>
-    <a href = "https://github.com/MrPrickle">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrprickle&layout=compact&theme=transparent&count_private=true&hide_border=true" alt="Top Languages" />
-    </a>
+      
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrprickle&layout=compact&theme=transparent&count_private=true&hide_border=true" alt="Top Languages" />
+
   </p>
 
 * Bucket List
