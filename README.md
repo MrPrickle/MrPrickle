@@ -7,6 +7,7 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/766737064133132298)](https://dev.discordprofiles.me/openspotify/766737064133132298)
 
 
+
 <details>
   <summary>Github Stats</summary>
   <p align="center">
