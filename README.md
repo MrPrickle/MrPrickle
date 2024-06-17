@@ -62,11 +62,11 @@
 </td><td valign="top" width="33%">
 
 * Bucket List
+  * Algs
+  * DataStructures
   * Pipelining
   * Dll Injection
   * SQL
-  * Algs
-  * DataStructures
   * Backend Development
 
 
